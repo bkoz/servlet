@@ -33,3 +33,6 @@ $ tree
                 └── web.xml
 ```
 
+The servlet will get deployed as http://ocp-app-name/murach-1.0/
+
+
